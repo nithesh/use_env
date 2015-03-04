@@ -1,0 +1,3 @@
+use_env is a command intended to be used in a .env file which will be read by autoenv zsh plugin
+
+This is a copy of https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/autoenv/autoenv.plugin.zsh without the check for $HOME/.autoenv/activate.sh
